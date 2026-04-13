@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 <h1 align="center">Vikas Sharma</h1>
 <h1 align="center">Hi, I'm Vikas Sharma</h1>
 
