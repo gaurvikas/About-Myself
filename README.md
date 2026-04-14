@@ -1,123 +1,31 @@
-<h1 align="center">Vikas Sharma</h1>
-<h1 align="center">Hi, I'm Vikas Sharma</h1>
+<h1 align="center">Hi 👋, I'm Vikas Sharma</h1>
+<h3 align="center">A passionate PHP Laravel developer from India</h3>
 
-<p align="center">
-  <b>PHP / Laravel Developer</b><br>
-  Building clean web applications with practical backend solutions
-  Learning, building, and growing on GitHub every day
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurvikas" alt="gaurvikas" /></a> </p>
 
-<p align="center">
-  <a href="mailto:sharmavikas12909@gmail.com">
-    <!-- <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> -->
-    <img src="https://img.shields.io/badge/Email-sharmavikas12909%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/sharma-vikas-php">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> -->
-    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+- 🔭 I’m currently working on **E-Commerce web**
 
+- 🌱 I’m currently learning **Git & GitHub, JavaScript, React.js, Node.js, and Python**
 
-## About Me
+- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, jQuery, AJAX, HTML, CSS, and CMS development**
 
-Hello! I'm **Vikas Sharma**, a passionate developer with **1 year of hands-on experience** in building web applications using PHP and Laravel.
-I am **Vikas Sharma**, a developer with **1 year of experience** in PHP and Laravel development.
+- 📫 How to reach me **sharmavikas12909@gmail.com**
 
-Right now, I am also learning **Git** and **GitHub** to improve my workflow, share my projects, and connect with other developers.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qZcKOEtPNnIHUAlxMXOouNC6USDticgB/view?usp=drive_link](https://drive.google.com/file/d/1qZcKOEtPNnIHUAlxMXOouNC6USDticgB/view?usp=drive_link)
 
-I like writing clean code, understanding backend logic, and building useful web applications with a practical approach.
+- ⚡ Fun fact **I enjoy solving complex backend problems and turning ideas into real-world applications**
 
-I enjoy developing structured, maintainable, and user-focused applications by applying strong backend concepts and practical problem-solving.
-## What I'm Working On
-
-I am currently looking for an opportunity as a **PHP / Laravel Developer** where I can contribute, learn, and grow with a professional team.
-- Learning Git and GitHub step by step
-- Improving my PHP and Laravel development skills
-- Building better backend projects with MySQL and REST APIs
-- Exploring clean code structure with MVC and OOP concepts
-
-## Tech Stack
-## Skills
-
-<p>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/AJAX-222222?style=flat-square" alt="AJAX">
-  <img src="https://img.shields.io/badge/MVC-0F766E?style=flat-square" alt="MVC">
-  <img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square" alt="OOP">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<a href="https://twitter.com/gaurvikas7976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurvikas7976" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sharma-vikas-php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sharma-vikas-php" height="30" width="40" /></a>
+<a href="https://instagram.com/gaur_vikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaur_vikas" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/331403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="331403" height="30" width="40" /></a>
 </p>
 
-## Professional Summary
-## Quick Profile
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<table>
-  <tr>
-    <td>Vikas Sharma</td>
-  </tr>
-  <tr>
-    <td><b>Experience</b></td>
-    <td>1 Year</td>
-    <td><b>Role</b></td>
-    <td>PHP / Laravel Developer</td>
-  </tr>
-  <tr>
-    <td><b>Primary Role</b></td>
-    <td>PHP / Laravel Developer</td>
-    <td><b>Experience</b></td>
-    <td>1 Year</td>
-  </tr>
-  <tr>
-    <td><b>Skills</b></td>
-    <td>PHP, Laravel, MySQL, REST APIs, jQuery, AJAX, MVC, OOP</td>
-    <td><b>Currently Learning</b></td>
-    <td>Git, GitHub, and stronger development workflows</td>
-  </tr>
-  <tr>
-    <td><b>Current Goal</b></td>
-    <td>Seeking a suitable PHP / Laravel Developer opportunity</td>
-    <td><b>Open To</b></td>
-    <td>PHP / Laravel Developer opportunities</td>
-  </tr>
-</table>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurvikas&show_icons=true&locale=en&layout=compact" alt="gaurvikas" /></p>
 
-## Career Objective
-
-> I'm currently looking for a PHP/Laravel Developer role.  
-> If there's any suitable opening, please consider my profile.
-
-## Contact Details
-## Contact
-
-- **Mobile:** 7976349888
-- **Email:** sharmavikas12909@gmail.com
-- **LinkedIn:** [linkedin.com/in/sharma-vikas-php](https://www.linkedin.com/in/sharma-vikas-php)
-
-## Quick Introduction
-## Developer Note
-
-```html
-<developer>
-  <name>Vikas Sharma</name>
-  <role>PHP / Laravel Developer</role>
-  <experience>1 Year</experience>
-  <skills>PHP, Laravel, MySQL, REST APIs, jQuery, AJAX, MVC, OOP</skills>
-  <status>Open to work</status>
-  <focus>PHP, Laravel, MySQL, REST APIs</focus>
-  <learning>Git and GitHub</learning>
-  <goal>Grow as a developer and build meaningful projects</goal>
-</developer>
-```
-
-<p align="center">
-  <i>Thanks for visiting my profile.</i><br>
-  <i>Let's connect and build something meaningful.</i>
-</p>
-  <i>Thanks for visiting my GitHub profile.</i><br>
-  <i>I'm learning, building, and moving forward one project at a time.</i>
-</p>
->>>>>>> 40004772e5894fbe5ef1e4b58cae513d92b3ac87
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvikas&" alt="gaurvikas" /></p>
